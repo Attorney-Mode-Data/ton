@@ -48,3 +48,24 @@
 <!-- Internal API -->
 <meta name="api:gateway" content="https://api.johncharlesmonti.com" />
 <meta name="api:git" content="https://git.johncharlesmonti.com" />
+JOHNCHARLESMONTI.COM LICENSE NOTICE
+Repository: github.com/montinode/
+Maintainer: John Charles Monti (@0xmonti)
+Contact: human.johncharlesmonti.com
+
+This repository is distributed under:
+GNU Library General Public License, Version 2 (June 1991)
+(“LGPL-2.0-or-later” where indicated by source headers).
+
+Copyright (C) 2026 John Charles Monti
+
+Additional project metadata (non-license):
+- Domain: johncharlesmonti.com
+- Telegram: @MontiGram / MontiGramBot
+- TON Network: mainnet
+- API Gateway: https://api.johncharlesmonti.com
+- Git Service: https://git.johncharlesmonti.com
+
+Disclaimer:
+The additional project metadata above does not replace, supersede, or modify
+the LGPL license terms. See LICENSE for binding legal terms.
