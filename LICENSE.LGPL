@@ -1,64 +1,49 @@
- <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#000000">
-<meta name="description" content="MontiAI Protected Node with TON Blockchain, Telegram Neural Routing, Embedded AI Runtime, and Autonomous Distributed Infrastructure.">
-<meta name="author" content="John Charles Monti">
-<meta name="robots" content="index,follow,max-image-preview:large">
-<link rel="manifest" href="/manifest.json">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 
-<link rel="dns-prefetch" href="//core.telegram.org">
-<link rel="dns-prefetch" href="//api.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//paymaster.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//neural.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//git.johncharlesmonti.com">
+<title>MontiAI Protected Node</title>
+<meta
+  name="description"
+  content="MontiAI Protected Node with TON Blockchain, Telegram neural routing, embedded AI runtime, and autonomous distributed infrastructure."
+/>
+<meta name="author" content="John Charles Monti" />
+<meta name="theme-color" content="#000000" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="referrer" content="strict-origin-when-cross-origin" />
 
-<link rel="preconnect" href="https://core.telegram.org" crossorigin>
-<link rel="preconnect" href="https://api.johncharlesmonti.com" crossorigin>
-<link rel="preconnect" href="https://paymaster.johncharlesmonti.com" crossorigin>
-<link rel="preconnect" href="https://neural.johncharlesmonti.com" crossorigin>
-<link rel="preconnect" href="https://git.johncharlesmonti.com" crossorigin>
+<link rel="manifest" href="/manifest.json" />
 
-<meta name="referrer" content="strict-origin-when-cross-origin">
+<!-- Performance: DNS + early connection -->
+<link rel="dns-prefetch" href="//core.telegram.org" />
+<link rel="dns-prefetch" href="//api.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//paymaster.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//neural.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//git.johncharlesmonti.com" />
 
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://core.telegram.org" crossorigin />
+<link rel="preconnect" href="https://api.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://paymaster.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://neural.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://git.johncharlesmonti.com" crossorigin />
 
-<meta name="telegram:channel" content="@MontiGram">
-<meta name="telegram:bot" content="MontiGramBot">
-<meta name="telegram:webapp" content="enabled">
+<!-- PWA / Mobile -->
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-<meta name="ton:network" content="mainnet">
-<meta name="ton:integration" content="enabled">
-<meta name="ton:paymaster" content="https://paymaster.johncharlesmonti.com">
+<!-- Telegram integration -->
+<meta name="telegram:channel" content="@MontiGram" />
+<meta name="telegram:bot" content="MontiGramBot" />
+<meta name="telegram:webapp" content="enabled" />
 
-<meta name="api:gateway" content="https://api.johncharlesmonti.com">
-<meta name="api:git" content="https://git.johncharlesmonti.com">
-<meta name="api:phantom" content="https://phantom.johncharlesmonti.com">
-<meta name="api:base" content="https://base.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//core.telegram.org">
-<link rel="dns-prefetch" href="//paymaster.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//api.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//neural.johncharlesmonti.com/webhooks">
-<link rel="dns-prefetch" href="//git.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//phantom.johncharlesmonti.com">
-<link rel="dns-prefetch" href="//base.johncharlesmonti.com">
+<!-- TON integration -->
+<meta name="ton:network" content="mainnet" />
+<meta name="ton:integration" content="enabled" />
+<meta name="ton:paymaster" content="https://paymaster.johncharlesmonti.com" />
 
-This project is licensed under the GNU Library General Public License, Version 2 (June 1991).
-
-Copyright (C) 1991 Free Software Foundation, Inc.
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
-
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
-
-Project maintainer: @0xmonti
-Contact: human.johncharlesmonti.com
-bution of derivative or
-collective works based on the Library.
-
-In addition, mere aggregation of another work not based on the Library
-with the Library (or with a work based on the Library) on a volume of
+<!-- Internal API descriptors -->
+<meta name="api:gateway" content="https://api.johncharlesmonti.com" />
+<meta name="api:git" content="https://git.johncharlesmonti.com" />
 a storage or distribution medium does not bring the other work under
 the scope of this License.
 
