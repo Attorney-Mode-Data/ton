@@ -1,0 +1,50 @@
+<!--
+  Project: MontiAI Protected Node
+  Repository: github.com/montinode/
+  License: LGPL-2.0-or-later (see /LICENSE)
+  Notice: JOHNCHARLESMONTI.COM LICENSE NOTICE (see /NOTICE)
+  Maintainer: John Charles Monti (@0xmonti)
+-->
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+<title>MontiAI Protected Node</title>
+<meta name="description" content="MontiAI Protected Node with TON Blockchain, Telegram neural routing, embedded AI runtime, and autonomous distributed infrastructure." />
+<meta name="author" content="John Charles Monti" />
+<meta name="theme-color" content="#000000" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<link rel="manifest" href="/manifest.json" />
+
+<!-- Performance -->
+<link rel="dns-prefetch" href="//core.telegram.org" />
+<link rel="dns-prefetch" href="//api.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//paymaster.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//neural.johncharlesmonti.com" />
+<link rel="dns-prefetch" href="//git.johncharlesmonti.com" />
+
+<link rel="preconnect" href="https://core.telegram.org" crossorigin />
+<link rel="preconnect" href="https://api.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://paymaster.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://neural.johncharlesmonti.com" crossorigin />
+<link rel="preconnect" href="https://git.johncharlesmonti.com" crossorigin />
+
+<!-- Mobile / PWA -->
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<!-- Telegram -->
+<meta name="telegram:channel" content="@MontiGram" />
+<meta name="telegram:bot" content="MontiGramBot" />
+<meta name="telegram:webapp" content="enabled" />
+
+<!-- TON -->
+<meta name="ton:network" content="mainnet" />
+<meta name="ton:integration" content="enabled" />
+<meta name="ton:paymaster" content="https://paymaster.johncharlesmonti.com" />
+
+<!-- Internal API -->
+<meta name="api:gateway" content="https://api.johncharlesmonti.com" />
+<meta name="api:git" content="https://git.johncharlesmonti.com" />
