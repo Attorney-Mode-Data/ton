@@ -1,0 +1,29 @@
+{
+  "certId": "CERT-MONTI-BO-9807-A38AB0",
+  "engine": "MONTINODECertificate-BO",
+  "subject": "JOHN CHARLES MONTI",
+  "subjectAnsi": "MONTI_ANSI_F841005",
+  "issuer": "MONTINODE Certificate Engine (BO Authority)",
+  "certType": "MONTI_IDENTITY_CORE",
+  "organization": "#MONTIAI",
+  "keyStrength": "4096-bit Neural RSA",
+  "serialNumber": "0x402F8410059807A38AB0808560",
+  "issueDate": "2026-08-22T20:16:48.560Z",
+  "expiryDate": "PERPETUAL_IMMORTAL_TIER",
+  "neuralKeyFingerprint": "0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0",
+  "neuralSignature": "MONTI^JOHN^CHARLES^MONTI",
+  "status": "ACTIVE_VALIDATED",
+  "scopes": [
+    "Kernel Ring-0 Hooks (montidroid_core.sys)",
+    "USB AutoInject Direct Memory Access (DMA_ENGINE)",
+    "Stripe Payout & Financial Ledger (stripe.monti.bio)",
+    "Retina Biometric Verification (retina_query.xq)",
+    "Knox Boundary Tapjacking Defense",
+    "MontiPython Native C-Extension Execution",
+    "TruthLogs.org Forensic Audit Sync"
+  ],
+  "notes": "Official BackOffice Identity & Operating Authority Certificate generated for JOHN CHARLES MONTI.",
+  "attorneyModeAuditLog": "LOG-ATTORNEYMODE-MONTI-F841005-A38AB0",
+  "pem": "-----BEGIN MONTINODE CERTIFICATE-----\nMIIEpQIBAAKCAQEA0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0MONTI\nANSIF841005CERT-MONTI-BO-9807-A38AB00x402F8410059807A38AB0808560JOHNCHARLESMONTI02111989233AM\nCERTIFICATEBOAUTHORITYKEYSTRENGTH4096-bitNeuralRSA\n-----END MONTINODE CERTIFICATE-----",
+  "verificationUrl": "https://0xmonti.net/verify/CERT-MONTI-BO-9807-A38AB0"
+}
